@@ -1,0 +1,5 @@
+__*__
+*/migrations
+bin 
+lib*
+pyenv.cfg
